@@ -1,0 +1,32 @@
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely need to edit after that.
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'jekyll serve'. If you change this file, please restart the server process.
+
+# Site settings
+title: Jimmy Tan
+email: jimmy@jimtkm.com
+description: > # this means to ignore newlines until "baseurl:"
+  Hi, I'm Jimmy. I'm a software developer from Singapore. I code in C/C++,
+  Java, Swift, Python, and sometime Clojure.
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "http://jimtkm.com" # the base hostname & protocol for your site
+
+# Author settings
+author:
+  name: Jimmy Tan
+  twitter_username: jimtkm
+  github_username:  jimtkm
+
+# Build settings
+timezone: Asia/Singapore
+gems: [jekyll-paginate]
+markdown: kramdown
+highlighter: pygments
+sass:
+  style: :compressed
+
+permalink: /:title/
+paginate: 25

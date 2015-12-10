@@ -14,12 +14,6 @@ description: > # this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://jimtkm.com" # the base hostname & protocol for your site
 
-# Author settings
-author:
-  name: Jimmy Tan
-  twitter_username: jimtkm
-  github_username:  jimtkm
-
 # Build settings
 timezone: Asia/Singapore
 gems: [jekyll-paginate]
@@ -30,3 +24,6 @@ sass:
 
 permalink: /:title/
 paginate: 25
+
+# Google Analytics
+google_analytics: UA-6457269-1

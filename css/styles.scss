@@ -1,2 +1,51 @@
 ---
 ---
+header.site-header {
+    border-top: 5px solid #e7e7e7;
+    border-bottom: none;
+}
+
+.site-title,
+.site-title:visited {
+    font-weight: 600;
+    color: #57626b;
+}
+
+.site-nav .page-link {
+    color: #a6a8ab;
+}
+
+.site-header a:hover,
+.site-nav a:hover {
+    text-decoration: none;
+}
+
+.site-nav a:hover {
+	color: #57626b;
+}
+
+header > .wrapper {
+	border-bottom: 1px solid #e7e7e7;
+}
+
+footer.site-footer {
+    border-top: none;
+    color: #a6a8ab;
+}
+
+footer > .wrapper {
+    border-top: 1px solid #e7e7e7;
+    padding-top: 20px;
+}
+
+figure > figcaption {
+    text-align: center;
+}
+
+@media (min-width: 768px) {
+    header > .wrapper,
+    footer > .wrapper {
+	padding-left: 0px;
+	padding-right: 0px;
+    }
+}

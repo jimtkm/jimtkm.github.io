@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Ghost on FreeBSD"
+excerpt: "Get Ghost working under FreeBSD."
 ---
 Couple of months back, I switched to [FreeBSD][fbsd] and started everything fresh. I just prefer [FreeBSD][fbsd].
 

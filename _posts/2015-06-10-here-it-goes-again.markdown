@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Here it goes again!"
+excerpt: "Let's restart, all over again."
 ---
 I killed my old blog again, <del>but all the entries are still available at my tumblog, I think they suit better at [Tumblr][tum].</del>
 

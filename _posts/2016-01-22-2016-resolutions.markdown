@@ -1,0 +1,21 @@
+---
+layout: post
+title: 2016 Resolutions
+excerpt: "The yearly TO-DO list."
+---
+Every year I had almost the same resolutions, things like *less beer*, *sleep more*, *workout regularly*, *drink more water* and so on. Not really working for me, specially the *beer* part.
+
+This year, I have only 3 in my personal list;
+
+- **Workout regularly** - I will try to workout 4-5 times each week, run more, ride more.
+- **Take more photos** - I want to take more photo, more meaningful photos, not just snapshot.
+- **Learn a new language** - Learn something, Japanese, Thai or Vietnamese. Just learn somethng.
+
+And for my geek list;
+
+- **Emacs as my only editor** - I been using VI since 90s, recently I got hooked on *org-mode*...
+- **Redesign _jimtkm.com_** - Need to switch this to Jekyll, need `collection` for photosets.
+- **Stop using platform-dependent apps** - Apps like OmniFocus, Day One, and such. Any apps that I can't use while on other platform (Linux/BSD), I need to stop using all these.
+- **Transfer all domains out of GoDaddy** - Elephant killer?
+
+That's my resolutions, happy 2016 people!

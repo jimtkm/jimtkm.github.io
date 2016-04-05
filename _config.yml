@@ -18,7 +18,7 @@ url: "http://jimtkm.com" # the base hostname & protocol for your site
 timezone: Asia/Singapore
 gems: [jekyll-paginate]
 markdown: kramdown
-highlighter: rough
+highlighter: rouge
 sass:
   style: :compressed
 
